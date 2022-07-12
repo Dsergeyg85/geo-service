@@ -1,4 +1,4 @@
-package MessageSenderImplTest;
+package sender;
 
 import org.junit.Test;
 import org.mockito.Mockito;
